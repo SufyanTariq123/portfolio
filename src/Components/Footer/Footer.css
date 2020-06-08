@@ -1,0 +1,13 @@
+.footerlinks {
+  font-size: large;
+  background-color: #dcdde1;
+  height: 40vh;
+}
+.footericons {
+  position: absolute;
+  margin-top: -7%;
+  margin-left: 35%;
+}
+.copyright {
+  margin-top: 100px !important;
+}
